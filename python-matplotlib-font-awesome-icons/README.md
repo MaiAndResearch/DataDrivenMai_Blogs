@@ -48,7 +48,7 @@ Open the `python-matplotlib-font-awesome-icons.ipynb` notebook and run all cells
 	- `numpy`
 	- `matplotlib.font_manager`
     - `matplotlib.pyplot`
-	- `matplotlib.text`
+	- `matplotlib.textpath`
 	- `matplotlib.transforms`
 	- `matplotlib.path`
 	- `matplotlib.patches`
